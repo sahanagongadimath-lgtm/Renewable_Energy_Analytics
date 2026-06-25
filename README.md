@@ -1,5 +1,5 @@
 # Renewable_Energy_Analytics
-# Dashboard_Overview
+# 📌 Dashboard_Overview
 This project analyzes renewable energy generation, consumption, carbon emission reduction, and environmental factors across different states and regions. The dashboard helps stakeholders monitor renewable energy performance, track sustainability goals, and identify trends in energy production.
 
 # 🛠 Tools & Technologies
@@ -32,4 +32,4 @@ Source : Chatgpt
 ✅ Time-series analysis of energy generation and consumption trends.
 
 # 📷 Dashboard Screenshots
-
+This is my dashboard : https://github.com/sahanagongadimath-lgtm/Renewable_Energy_Analytics/blob/main/Screenshot%202026-06-25%20113051.png
